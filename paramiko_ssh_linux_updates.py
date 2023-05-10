@@ -1,7 +1,7 @@
 # This script creates ssh connections and updates the systems.
 # It can be modified to run any commands.
 
-# Author Harald Trohne
+# Author coc0nut
 
 import paramiko
 from getpass import getpass
