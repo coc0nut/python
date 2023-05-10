@@ -1,5 +1,5 @@
 # This program can be run with python core packages. No module installation needed.
-# Author Harald Trohne
+# Author coc0nut
 
 import tkinter as tk
 
